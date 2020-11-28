@@ -17,4 +17,4 @@ Disclaimer:
 * In this repository SO stands for Operating Systems.
 * Project made for UNIX based systems, written in C.
 
-University of Minho, Software Engeneering [2º year].
+University of Minho, Software Engineering [2º year].
